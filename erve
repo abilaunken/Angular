@@ -1,0 +1,29 @@
+[33mcommit bd7305edd162a6814f7b4536953e42783b8291a1[m[33m ([m[1;36mHEAD -> [m[1;32madding-basic-interface[m[33m)[m
+Author: LucianoFT <lucaxpto@gmail.com>
+Date:   Tue Apr 7 12:29:34 2020 -0300
+
+    Adicionando o tasks compontent
+
+[33mcommit d4ed684df77d42856127866262d9d0694121ae90[m
+Author: LucianoFT <lucaxpto@gmail.com>
+Date:   Fri Apr 3 16:37:55 2020 -0300
+
+    adicionando barra de navegacao
+
+[33mcommit 979a67d05923bd95a9f2fb28d548f6651651eb9e[m
+Author: LucianoFT <lucaxpto@gmail.com>
+Date:   Thu Apr 2 13:02:25 2020 -0300
+
+    adicionando tweeter bootstrap
+
+[33mcommit 5150cb141cf5e049bdf7b634454c4c08d03d4f56[m
+Author: LucianoFT <lucaxpto@gmail.com>
+Date:   Thu Apr 2 12:35:33 2020 -0300
+
+    adicionando model task
+
+[33mcommit f009e3ac1a2b6ff85f53593802787cccbf964b88[m[33m ([m[1;32mmaster[m[33m)[m
+Author: LucianoFT <lucaxpto@gmail.com>
+Date:   Wed Mar 25 11:56:50 2020 -0300
+
+    primeiro commit
