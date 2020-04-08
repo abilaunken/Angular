@@ -21,6 +21,7 @@ const TASKS: Array<Task> = [
 
 export class TasksComponent implements OnInit{
    public tasks:Array<any>;
+   public selectedTask: Task;
 
    public constructor(){
     }
@@ -28,6 +29,12 @@ export class TasksComponent implements OnInit{
     public ngOnInit(){
         //debugger
         this.tasks = TASKS;
+        //this.selectedTask = new Task( 0 , 'init' );
+    }
+
+    public onSelect( task: Task ): void{
+        //debugger
+        this.selectedTask = task;
     }
 
 }
