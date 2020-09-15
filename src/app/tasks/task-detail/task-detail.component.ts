@@ -11,7 +11,7 @@ import { TaskService } from "../shared/task.service";
 })
 
 export class TaskDetailComponent implements OnInit{
-    @Input()
+   // @Input()
     public task: Task;
     
     public constructor(
