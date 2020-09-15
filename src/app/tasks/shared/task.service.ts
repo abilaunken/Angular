@@ -25,7 +25,7 @@ export class TaskService{
             if(TASKS.length > 0){
                 setTimeout(() => {
                     resolve(TASKS);
-                },3000)
+                },500)
                 
             }else{
                 let error_msg = "NAO HA TAREFAS";
